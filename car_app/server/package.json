@@ -1,0 +1,14 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "store cars data",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
